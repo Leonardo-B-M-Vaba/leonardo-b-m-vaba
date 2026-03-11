@@ -1,7 +1,7 @@
 ## Hi, I'm Leonardo 
 
 Software developer focused on solving business problems through well-designed systems.
-Rather  than focusing only on frameworksor languages, I focus on uderstanding the business domain and making the right architecture decisions.
+Rather  than focusing only on frameworks or languages, I focus on uderstanding the business domain and making the right architecture decisions.
 
 ## Interests 
 

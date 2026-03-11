@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Leonardo 
 
-<!--
-**Leonardo-B-M-Vaba/leonardo-b-m-vaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on solving business problems through well-designed systems.
+Rather  than focusing only on frameworksor languages, I focus on uderstanding the business domain and making the right architecture decisions.
 
-Here are some ideas to get you started:
+## Interests 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Domain Driven Design
+- Software Architecture
+- Backend Engineering
+- Distributed Systems
+- System Integration
+
+
+## Tech Ecosystem 
+
+.NET | C# | ASP.NET CORE | Entity Framework Core | SQL Server | Docker | Azure 
